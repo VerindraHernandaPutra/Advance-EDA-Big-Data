@@ -111,16 +111,18 @@ This level involves more challenging tasks, including combining multiple dataset
 
 ## **LEVEL 4 - GIS and Big Data Integration**
 
-![image](https://github.com/user-attachments/assets/10b1b73b-79a0-4418-b1c3-33d4760e5e96)
+This level focuses on integrating **GIS (Geographic Information System)** data with **Big Data** analytics and Advanced Visualization.
 
-This level focuses on integrating **GIS (Geographic Information System)** data with **Big Data** analytics.
+### **LEVEL 4 - 1. Set up Advanced Visualization**
 
-### **LEVEL 4 - 1. Set up Dataset for Plotting on Map**
+![image](https://github.com/user-attachments/assets/d973315f-86aa-4b6b-8f20-af012b6dafb3)
 
-- **Dataset**: This dataset contains geographic data points that need to be mapped onto a geographical map.
-- **Task**: Prepare the dataset to be visualized on a map.
+- **Dataset**: This dataset contains happiness levels in all countries in the world.
+- **Task**: Make an advanced Visualization and show the insight
 
 ### **LEVEL 4 - 2. Map Points Placement**
+
+![image](https://github.com/user-attachments/assets/10b1b73b-79a0-4418-b1c3-33d4760e5e96)
 
 - **Dataset**: Using the prepared dataset, you will plot points on a map.
 - **Task**: Place the dataset points onto a GIS map and visualize them.
